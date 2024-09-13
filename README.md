@@ -1,7 +1,7 @@
 ## Hey, I'm Emanuel Ítalo!
 
-- 🇧🇷 Brazilian, 20 years old
-- :computer: Analysis and systems development 4/6
+- 🇧🇷 Brazilian, 21 years old
+- :computer: Analysis and systems development 5/6
 
 ##
 
